@@ -1,0 +1,15 @@
+# Maven
+*.log
+**/target/
+.mvn/
+# Eclipse project files
+.classpath
+.project
+.settings/
+
+# Build artifacts
+*.class
+*.jar
+bin/
+target/
+out/
